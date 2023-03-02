@@ -1,4 +1,4 @@
-# clima_weather_app
+# Basic Weather App
 
 A new Flutter project.
 
